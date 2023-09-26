@@ -38,7 +38,7 @@ The data has been analyzed by creating a list of various factors that impact the
 7)	A total of 13,215 customers made a single purchase during the specified timeframe.
 8)	The highest number of purchases by a single individual is 56, identified by the user ID 1515915625601579158.
 
-<br>**CONCLUSION**
+<br>**RECOMMENDATIONS**
 <br>
 1)	Consider implementing targeted promotional discounts during months with high sales activity.
 2)	Leverage time-based promotions and advertisements during peak viewing and shopping hours.
